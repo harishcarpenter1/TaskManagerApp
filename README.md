@@ -1,3 +1,3 @@
-# Complete Detailed article available on GeeksforGeeks
+# Complete article available on GeeksforGeeks
 <p>Link to the article</p><a href="https://www.geeksforgeeks.org/task-manager-app-using-express-react-and-graphql/">Click Here.</a>
 
